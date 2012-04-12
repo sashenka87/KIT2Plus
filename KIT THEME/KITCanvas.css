@@ -1,0 +1,42 @@
+#kit-canvas-div
+{
+	width:600px;
+	padding:10px 10px 10px 10px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+canvas.kit-canvas
+{
+	border:1px solid black;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	cursor:crosshair;
+}
+
+div.kit-canvas-controls
+{
+	display:block;
+	clear:both;
+	list-style-type:none;
+	margin:10px auto 10px auto;
+	text-align:center;
+}
+
+div.kit-canvas-controls .kit-canvas-control
+{
+	display:inline;
+	width:85px;
+	margin:0px 7px 0px 7px;
+}
+
+input.kit-canvas-button[type="button"]
+{
+
+}
+
+div.hidden-div
+{
+	display:none;
+}

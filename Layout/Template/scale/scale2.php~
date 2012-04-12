@@ -1,0 +1,73 @@
+<?php
+if($_GET['q']){
+
+	echo '<p><b>'.$aQuestions.'</b><br />';
+
+	echo '<div class ="scale">0% |</div>';
+
+	for ($y=1;$y<=100;$y++){
+		$marker = ($y==$_GET['a'])?'<b style="color:red;">X</b>':(($y==50)?'|':'-');?>
+		<div onclick="new Ajax.Updater('<?php echo $_GET['q'];?>', '/scale/scale2.ajax?q=<?php echo $_GET['q'];?>&a=<?php echo $y;?>', {asynchronous:true,method:'get'}); return false;" class="scale"><?php echo $marker;?></div>
+		<?php
+	}
+	echo '<div class ="scale">| 100%</div>';
+
+	echo '</p><br/>';
+
+
+
+} else {
+
+?>
+
+<h1>Directions</h1>
+<div>
+<p>Please respond to the following 41 statements by making a slash mark (/) on the line. Indicate how much you agree or disagree with the given statement by drawing your mark closer to the strongly disagree (SD) or the strongly agree (SA) end. For this set of questions, please rate your agreement according to what you think and do when you are engaged in school-related activities and tasks.</b>
+
+<p>
+<h2>FOR SCHOOL...</h2>
+<b>When I read, I talk to myself.</b>
+</p>
+<div class ="scale">0% |</div>
+<?php 
+for ($y=1;$y<=100;$y++){
+		$marker = ($y==85)?'<b style="color:red;">X</b>':(($y==50)?'|':'-');?>
+		<div class="scale"><?php echo $marker;?></div>
+	<?php } ?>
+<div class ="scale">| 100%</div>
+</p><br /><br /><br /></div>
+
+
+
+<h1>scale2 Questions</h1>
+<h2>FOR SCHOOL...</h2>
+<?php
+$i=1;
+
+foreach ($aQuestions as $question) {
+
+	echo '<div id="'.$i.'">';
+
+	echo '<p><b>'.$question.'</b><br />';
+
+	echo '<div class ="scale">0% |</div>';
+
+	for ($y=1;$y<=100;$y++){
+		$marker = ($y==$_GET['a'])?'<b style="color:red;">X</b>':(($y==50)?'|':'-');?>
+		<div onclick="new Ajax.Updater('<?php echo $i;?>', '/scale/scale2.ajax?q=<?php echo $i;?>&a=<?php echo $y;?>', {asynchronous:true,method:'get'}); return false;" class="scale"><?php echo $marker;?></div>
+		<?php
+	}
+	echo '<div class ="scale">| 100%</div>';
+
+	echo '</p><br/>';
+
+	echo '</div>';
+
+	$i++;
+}
+?>
+
+<?php
+}
+?>
+

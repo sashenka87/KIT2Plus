@@ -1,0 +1,496 @@
+#blurbbox1 {
+float: left;
+width: 203px;
+margin-right: 10px;
+padding-left: 15px;
+padding-top: 7px;
+padding-bottom: 10px;
+}
+
+#blurbbox2 {
+float: right;
+width: 203px;
+border-left: dashed;
+border-left-color: #cccccc;
+border-width: 1px;
+padding-left: 10px;
+padding-right: 15px;
+padding-top: 7px;
+padding-bottom: 10px;
+}
+
+#browsebox2 {
+ width: 218px;
+ height: 18px;
+ background-image: url(/images/browseboxtop.gif);
+ color: #cf7127;
+ font-family: Tahoma, Arial;
+ font-weight: bold;
+ font-size: 11px;
+ text-align: left;
+ margin-left: 0px;
+ padding-left: 7px;
+ padding-top: 2px;
+}
+
+#browsebox2bottom {
+ width: 211px;
+ background-color: #e6ebf1;
+ color: #333333;
+ font-family: Tahoma, Arial;
+ font-size: 11px;
+ margin-left: 0px;
+ padding-left: 7px;
+ padding-right: 7px;
+ padding-top: 7px;
+ padding-bottom: 7px;
+}
+
+#browsebox2bottom a:link {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+#browsebox2bottom a:visited {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+#browsebox2bottom a:active {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+#browsebox2bottom a:hover {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.browselist {
+ width: 211px;
+ height: 22px;
+ color: #000000;
+ font-family: Tahoma, Arial;
+ font-size: 11px; 
+}
+
+.cartbox {
+  padding-bottom: 10px;
+  font-family: Tahoma, Arial; 
+  font-size: 11px;  
+  text-align: right; 
+  color: #496B8E;
+	clear: both;
+}
+ 
+td.cartbox a {
+  text-decoration: none;
+  color: #496B8E;
+}
+
+td.cartbox a:hover {
+  text-decoration: underline;
+  color: #cf7127;
+}
+
+.cartbox a:visited {
+  text-decoration: none;
+  color: #496B8E;
+}
+#featuresbox { 
+ border-right: solid;
+ border-right-width: 1px;
+ border-right-color: #cccccc;
+ border-left: solid;
+ border-left-width: 1px;
+ border-left-color: #cccccc; 
+ border-bottom: solid;
+ border-bottom-width: 1px;
+ border-bottom-color: #cccccc;
+}
+
+#featuresbox1 {
+ width: 458px;
+ padding-top: 15px;
+ padding-bottom: 10px;
+ padding-left: 7px;
+ padding-right: 3px;
+ border-bottom: dotted;
+ border-bottom-width: 1px;
+ border-bottom-color: #cccccc;
+ text-align: left;
+ }
+
+.featuretext {
+ font-family: Tahoma, Arial;
+ font-size: 12px;
+ color: #333333;
+ line-height: 18px; 
+}
+
+.featuretextsmall {
+ font-family: Tahoma, Arial;
+ font-size: 11px;
+ color: #333333;
+ line-height: 15px;
+}
+
+.featuretextsmall a:link {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.featuretextsmall a:visited {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.featuretextsmall a:active {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.featuretextsmall a:hover {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.featuretitle1 {
+ font-family: Tahoma, Arial;
+ font-size: 18px;
+ font-weight: bold;
+ color: #3c6b9e; 
+ z-index:5;
+} 
+
+.featuretitle2 {
+ font-family: Tahoma, Arial;
+ font-size: 14px;
+ font-weight: bold;
+ color: #3c6b9e;
+} 
+
+.featuretitle1 a:link {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.featuretitle1 a:active {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.featuretitle1 a:visited {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.featuretitle1 a:hover {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.featuretitle2 a:link {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.featuretitle2 a:active {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.featuretitle2 a:visited {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.featuretitle2 a:hover {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.footertext {
+ font-family: Tahoma, Arial;
+ font-weight: bold;
+ font-size: 11px;
+ color: #cf7127;
+ line-height: 17px;
+}
+
+.footertext  a:link{
+ color: #3c6b9e;
+ text-decoration: none;
+ } 
+ 
+.footertext  a:visited{
+ color: #3c6b9e;
+ text-decoration: none;
+ }
+ 
+.footertext  a:active{
+ color: #3c6b9e;
+ text-decoration: underline;
+ }
+ 
+.footertext a:hover{
+ color: #3c6b9e;
+ text-decoration: underline;
+ }
+ 
+.footer2text {
+ font-family: Tahoma, Arial;
+ font-size: 11px;
+ color: #333333;
+ line-height: 16px;
+}
+
+.footer2text a:link {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.footer2text a:visited {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.footer2text a:active {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.footer2text a:hover {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.ftr {
+ width:960px;
+ height:23px;
+ background-image: url(/images/footerback.gif);
+ clear: both;
+ position: relative;
+ border: none;
+}
+
+.newsbullettext {
+ font-family: Tahoma, Arial;
+ color: #333333;
+ font-size: 11px;
+ list-style-image: url(/images/newsbullet.gif);
+ margin-left: 5px;
+ line-height: 15px;
+ margin-bottom: 5px;
+}
+
+.newsbullettext a:link {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.newsbullettext a:visited {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.newsbullettext a:active {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.newsbullettext a:hover {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.newslist {
+ margin-top: -22px;
+ margin-left: 0px;
+ padding-left: 15px;
+}
+
+.newsnobullettext {
+ font-family: Tahoma, Arial;
+ color: #333333;
+ font-size: 11px;
+ line-height: 15px;
+ margin-bottom: 5px;
+}
+
+.newsnobullettext a:link {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.newsnobullettext a:visited {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.newsnobullettext a:active {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.newsnobullettext a:hover {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.newssubheadhome {
+ font-family: Tahoma, Arial;
+ color: #cf7127;
+ font-size: 14px;
+ font-weight: bold;
+ line-height: 10px;
+}
+
+.newssubhead {
+ font-family: Tahoma, Arial;
+ color: #cf7127;
+ font-size: 20px;
+ font-weight: bold;
+}
+
+.newstext1 {
+ font-family: Verdana;
+ color: #3c6b9e;
+ font-size: 11px;
+ text-align: left;
+}
+
+.newstext1 a:link {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.newstext1 a:visited {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.newstext1 a:active {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.newstext1 a:hover {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.newstext2 {
+ font-family: Tahoma;
+ color: #3c6b9e;
+ font-size: 11px;
+ text-align: left;
+}
+
+.newstext2 a:link {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.newstext2 a:visited {
+ color: #3c6b9e;
+ text-decoration: none;
+}
+
+.newstext2 a:active {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.newstext2 a:hover {
+ color: #3c6b9e;
+ text-decoration: underline;
+}
+
+.searchfield {
+ width: 215px;
+ height: 12px;
+ font-family: Tahoma, Arial;
+ font-size: 11px;
+ color: #000000;
+}
+
+/* Added by Chris */
+
+.InternalEmailBoxWrapper {
+	clear:both;
+	width: 225px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #336600;
+	font-family:Tahoma, Arial, sans serif; text-align: left;
+}
+
+.InternalEmailBoxTop {
+	background-image:url(/images/prbemailnewsbg_top.gif);
+	background-repeat:no-repeat;
+	height:3px;
+}
+
+.InternalEmailBoxMiddle {
+	background-image:url(/images/prbemailnewsbg_middle.gif);
+	background-repeat:repeat-y;
+}
+
+.InternalEmailBoxBottom {
+	background-image:url(/images/prbemailnewsbg_bottom.gif);
+	background-repeat:no-repeat; height:3px;
+}
+
+.InternalEmailBoxLine1 {
+	font-size: 11px;
+	padding-left: 10px;
+}
+
+.InternalEmailBoxLine2 {
+	font-size: 10px;
+	padding-left: 10px;
+}
+
+.InternalEmailInputLine {
+	margin-left: 10px;
+}
+
+.InternalEmailInputbox {
+ width: 175px;
+ height: 14px;
+ font-family: Tahoma, Arial;
+ font-size: 11px;
+ color: #000000;
+}
+
+.InternalEmailInputButton {
+	border-width:0px;
+	margin-left: 2px;
+}
+
+.ForeignSearchField {
+ width: 100px;
+ height: 12px;
+ font-family: Tahoma, Arial;
+ font-size: 11px;
+ color: #000000;
+ margin: 2px 0 2px 15px;
+ vertical-align: top;
+}
+
+.ForeignSearchBox {
+ height:26px;
+ width:286px; 
+ background:#ffffff;
+ float: right;
+ margin-top:-30px;
+ background-image:url(/images/search_back_Foreign2.gif);
+ background-repeat:no-repeat;
+ overflow: hidden;
+}
+
+.ForeignSearchButton {
+	vertical-align:top;
+	margin-right: 2px;
+}

@@ -1,0 +1,158 @@
+body
+{
+	padding: 0;
+	margin: 0;
+}
+
+#print-page ol, #print-page dl, #print-page ul {margin:1.12em 0}
+#print-page ol, #print-page ul, #print-page dl, #print-page dd {margin-left: 40px}
+#print-page ol {list-style-type:decimal}
+#print-page ul {list-style-type:disc}
+
+#print-page
+{
+	color: #000;
+}
+
+#print-page #container
+{
+	width: 722px;
+	padding: 12px 10px 0 18px;
+	position: relative;
+}
+
+#print-page a
+{
+	color: #990000;
+}
+
+#print-page #logo
+{
+	padding: 0 484px 26px 0;
+	float: left;
+}
+
+#print-page #print-this
+{
+	float: left;
+	display: block;
+	height: 12px;
+	background: #fff url(../images/icons/icon-print.png) no-repeat;
+	margin-top: 15px;
+	padding-left: 18px;
+	font-family: Arial;
+	font-size: 10px;
+	color: #990000;
+	text-decoration: none;
+	text-transform: uppercase;
+	position: absolute;
+	top: 12px;
+	right: 10px;
+}
+#print-page #print-this:hover
+{
+	text-decoration: underline;
+}
+
+#print-page .article-header
+{
+	clear: both;
+}
+
+#print-page h2
+{
+	font-family: Georgia;
+	font-weight: bold;
+	font-size: 11px;
+	color: #666;
+	text-transform: uppercase;
+}
+
+#print-page h1
+{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 24px;
+	color: #000;
+	padding: 6px 0 3px;
+}
+
+#print-page .deck
+{
+	font-size: 14px;
+	line-height: 19px;
+	font-weight: bold;
+	font-family: Georgia;
+}
+
+#print-page .article-details
+{
+	padding: 18px 0 20px;
+	line-height: 15px;
+}
+
+#print-page .byline
+{
+	font-family: Arial;
+	font-size: 10px;
+	color: #000;
+}
+
+#print-page strong
+{
+	font-weight: bold;
+}
+
+#print-page .de-em
+{
+	font-family: Arial;
+	font-size: 11px;
+	color: #666;
+}
+
+#print-page .article-link
+{
+	display: block;
+}
+
+
+#print-page .article-body
+{
+	line-height: 22px;
+	font-size: 15px;
+	font-family: Georgia;
+}
+
+#print-page .article-body p
+{
+	padding-bottom: 22px;
+}
+
+#print-page .ad
+{
+	margin: 0;
+	padding-top:13px;
+	background-position:center top;
+}
+
+#print-page .homepageFlexAdOuter{
+	position:inherit;
+	float:right;
+	padding:12px 25px 25px 25px;
+	margin:10px 0 10px 10px;
+	width:auto;
+	height:auto;
+}
+
+#print-page .article-footer
+{
+	padding: 20px 0 28px 0;
+}
+
+@media print
+{
+	#print-page .no-print
+	{
+		display: none;
+	}
+}

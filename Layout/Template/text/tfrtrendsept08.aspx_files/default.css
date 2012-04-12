@@ -1,0 +1,108 @@
+body {
+  font: 9pt arial;
+}
+
+.Normal {
+  font: 9pt verdana;
+}
+
+/*special tables formating, by ChrisC @ Velir - 12182008 */
+.T1T2 {
+	font-family: Tahoma,Arial;
+	font-size: 12px;
+}
+	.T1T2 .tableTitle {
+		clear: both;
+		padding: 0 0 5px 0;
+	}
+	.T1T2 table {
+		border-right: solid 1px black;
+	}
+	.T1T2 table tr td {
+		border-left: solid 1px black;
+		border-bottom: solid 1px black;
+		text-align: right;
+		vertical-align: bottom;
+	}
+	.T1T2 .topRow td {
+		text-align: center;
+		border-top: solid 1px black;
+		background-color: #ABBECF;
+	}
+	.T1T2 .topRow th {
+		text-align: center;
+		vertical-align: bottom;
+		border-top: solid 1px black;
+		background-color: #ABBECF;
+		font-weight: bold;
+	}
+		.T1T2 .topRow .groupTitle {
+			border-bottom: solid 1px black;
+			font-weight: bold;
+		}
+	.T1T2 .LeftBold {
+		font-weight: bold;
+		text-align: left;
+		padding: 15px 5px 3px 5px;
+	}
+	.T1T2 .LeftIndent {
+		text-align: left;
+		padding: 5px 5px 3px 15px;
+	}
+	.T1T2 .colSpacer {
+		width:10px;
+	}
+	.T1T2 th {
+		border-bottom: solid 2px black;
+		border-left: solid 1px black;
+		font-weight: normal;
+		background-color: #ABBECF;
+		font-weight: bold;
+	}
+	.T1T2 .tableSources {
+		clear: both;
+		padding: 5px 0 0 0;
+	}
+	
+	.T1T2 .EveryOther {
+		background-color: #E6EBF1;
+	}
+
+.T3_certainAmenities {
+	font-family: Tahoma,Arial;
+	font-size: 12px;
+}
+	.T3_certainAmenities th {
+		border-bottom: solid 2px black;
+		border-left: solid 1px black;
+		font-weight: normal;
+		background-color: #ABBECF;
+		font-weight: bold;
+	}
+	
+	.T3_certainAmenities .EveryOther {
+		background-color: #E6EBF1;
+	}
+	
+	.T3_certainAmenities table {
+		border-right: solid 1px black;
+		border-top: solid 1px black;
+	}
+	.T3_certainAmenities table tr td {
+		border-left: solid 1px black;
+		border-bottom: solid 1px black;
+		text-align: right;
+		vertical-align: bottom;
+	}
+		.T3_certainAmenities table tr .leftCol {
+			text-align: left;
+		}
+		
+	.T3_certainAmenities .tableSources {
+		clear: both;
+		padding: 5px 0 0 0;
+	}
+	.T3_certainAmenities .tableTitle {
+		clear: both;
+		padding: 0 0 5px 0;
+	}

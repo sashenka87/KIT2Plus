@@ -1,0 +1,647 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="kitconsent2_files/filelist.xml">
+<link rel=Edit-Time-Data href="kitconsent2_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>CONSENT FORM</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PostalCode"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceType"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceName"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Sandra</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Tim</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>5</o:TotalTime>
+  <o:Created>2009-09-06T17:24:00Z</o:Created>
+  <o:LastSaved>2009-09-06T17:26:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>1200</o:Words>
+  <o:Characters>6842</o:Characters>
+  <o:Lines>57</o:Lines>
+  <o:Paragraphs>16</o:Paragraphs>
+  <o:CharactersWithSpaces>8026</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:FormsDesign/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520078593 -1073717157 41 0 66047 0;}
+@font-face
+	{font-family:"Arial Black";
+	panose-1:2 11 10 4 2 1 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-link:"Char Char3";
+	mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:11.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:0pt;}
+h8
+	{font-size:18pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Char Char2";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.25in right 6.5in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-noshow:yes;
+	mso-style-link:"Char Char1";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.25in right 6.5in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-link:"Char Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";}
+span.CharChar3
+	{mso-style-name:"Char Char3";
+	mso-style-locked:yes;
+	mso-style-link:"Heading 1";
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+span.CharChar2
+	{mso-style-name:"Char Char2";
+	mso-style-locked:yes;
+	mso-style-link:Header;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.CharChar1
+	{mso-style-name:"Char Char1";
+	mso-style-noshow:yes;
+	mso-style-locked:yes;
+	mso-style-link:Footer;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+span.CharChar
+	{mso-style-name:"Char Char";
+	mso-style-noshow:yes;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:Tahoma;
+	mso-ascii-font-family:Tahoma;
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("kitconsent2_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("kitconsent2_files/header.htm") fcs;
+	mso-endnote-separator:url("kitconsent2_files/header.htm") es;
+	mso-endnote-continuation-separator:url("kitconsent2_files/header.htm") ecs;}
+@page Section1
+	{size:11.0in 8.5in;
+	mso-page-orientation:landscape;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-header:url("kitconsent2_files/header.htm") h1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center;line-height:108%;
+tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 567.0pt 8.0in'><b
+style='mso-bidi-font-weight:normal'><u><span style='font-size:16.0pt;
+line-height:108%;font-family:"Arial Black"'>CONSENT FORM <o:p></o:p></span></u></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=1247
+ style='width:935.6pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=151 valign=top style='width:113.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 6.0pt .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 585.0pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'>Project Title<o:p></o:p></span></b></p>
+  </td>
+  <td width=1096 valign=top style='width:822.2pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 6.0pt .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 585.0pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%'>Knowledge, information, and truth in an online world</span></b><span
+  style='font-size:16.0pt;line-height:108%'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=151 valign=top style='width:113.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <h1 style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><span
+  style='font-size:16.0pt;line-height:108%;font-family:Arial'>Why is this
+  research being done?<o:p></o:p></span></h1>
+  </td>
+  <td width=1096 valign=top style='width:822.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 6.0pt .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 585.0pt'><span
+  style='font-size:16.0pt;line-height:108%;mso-bidi-font-style:italic'>This is
+  a research project being conducted by researchers at the <st1:PlaceType
+  w:st="on">University</st1:PlaceType> of <st1:PlaceName w:st="on">Maryland</st1:PlaceName>,
+  <st1:place w:st="on"><st1:City w:st="on">College Park</st1:City></st1:place>.<span
+  style='mso-spacerun:yes'>  </span>We are inviting you to participate in this
+  research project because you are an undergraduate or graduate student
+  enrolled at the university.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 6.0pt .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 585.0pt'><span
+  style='font-size:16.0pt;line-height:108%;mso-bidi-font-style:italic'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 6.0pt .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 585.0pt'><span
+  style='font-size:16.0pt;line-height:108%'>Technological advances have brought
+  about vast changes in the worlds of information and communication in recent years.
+  Students growing up immersed in a high-speed, trend-conscious,
+  constantly-connected culture may have experienced a conseq<span
+  style='color:black'>uent shift in their understandings of the interrelated
+  constructs of knowledge, information, and truth.<span style='mso-bidi-font-style:
+  italic'> The purpose of this research project is to investigate </span>this
+  possible shift, by taking the initial step of inquiring about students’
+  understandings of these constructs.</span><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td width=151 valign=top style='width:113.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'>What will I be asked to do?<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><span
+  style='font-size:16.0pt;line-height:108%;font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=1096 valign=top style='width:822.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:0in .5in 1.0in 1.5in 2.0in 2.5in 3.0in 3.5in 4.0in 4.5in 5.0in 5.5in 6.0in'><span
+  style='font-size:16.0pt;mso-bidi-font-style:italic'>The procedures involve </span><span
+  style='font-size:16.0pt'>completing a series of three measures in a computer-based
+  environment that supports a simulated online (i.e., world wide web) search
+  task. These measures will be completed outside the classroom or regular class
+  time. Participation will require access to a computer with an Internet
+  connection. If you do not have access to your own personal computer, you will
+  be directed to computer labs on campus. You will be directed how to access
+  the website supporting this environment. This information will be provided in
+  the handout given in class; in addition, you will be encouraged to contact
+  the researchers if you need assistance. <o:p></o:p></span></p>
+  <p class=MsoNormal style='tab-stops:0in .5in 1.0in 1.5in 2.0in 2.5in 3.0in 3.5in 4.0in 4.5in 5.0in 5.5in 6.0in'><span
+  style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='tab-stops:0in .5in 1.0in 1.5in 2.0in 2.5in 3.0in 3.5in 4.0in 4.5in 5.0in 5.5in 6.0in'><span
+  style='font-size:16.0pt'>All data collected will be stored on an external
+  server. Data from the computer-based environment will be sent from the
+  student’s personal computer running Internet Explorer 7.0 or Firefox to a
+  secure external Apache server running on a UNIX platform. First, you will
+  complete the consent form and a demographic information sheet. Next, you will
+  generate a graphic representation of the relation between <i
+  style='mso-bidi-font-style:normal'>knowledge, information, </i>and <i
+  style='mso-bidi-font-style:normal'>truth</i>, define these terms, and give an
+  explanation of your generated graphic. The graphic representation will be
+  generated by manipulating given shapes on the screen, while the definition
+  and explanation will be typed in. You will then perform a performance task
+  that addresses first a factual and then a more interpretive sociology-related
+  question regarding birth rates, using a set of 8 possible sources provided in
+  the closed online environment. You will type in your<span
+  style='mso-spacerun:yes'>  </span>answers to each of these questions. During
+  the performance measure, computer log files will be collected including: time
+  on task and use of the provided sources by opening the documents in the
+  online environment. Finally, you will report your beliefs and attitudes about
+  inquiry as contextualized to both personal and academic activities; this
+  involves completing the same set of 41 items twice, bearing in mind either
+  what you do for school or what you do for your own purposes. Your responses
+  here involve indicating the appropriate position on the given agreement scale
+  by clicking on the screen. After responding to this self-report measure, you
+  will also be asked to describe briefly the type of activities you had in mind
+  for each context, by typing in a description. Completion of all measures is
+  expected to take approximately 45 minutes.<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-right:120.0pt;line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 312.0pt 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><i
+style='mso-bidi-font-style:normal'><span style='font-size:16.0pt;line-height:
+108%'><o:p>&nbsp;</o:p></span></i></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=1247
+ style='width:935.6pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=171 valign=top style='width:128.55pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'>What about confidentiality?<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><span
+  style='font-size:16.0pt;line-height:108%'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=1076 valign=top style='width:807.05pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+  style='font-size:16.0pt;mso-bidi-font-style:italic'>We will do our best to
+  keep your personal information confidential.<span style='mso-spacerun:yes'> 
+  </span>To help protect your confidentiality, (1) your name will not be included
+  on the surveys and other collected data; (2) a code will be placed on the
+  survey and other collected data; (3) through the use of an identification
+  key, the researcher will be able to link your survey to your identity; and
+  (4) only the researcher will have access to the identification key.<b
+  style='mso-bidi-font-weight:normal'> </b></span><span style='font-size:16.0pt'>For
+  open-ended responses, only brief quotations will be used, if at all, and care
+  will be taken not to reveal your identity through the use of quotes.<span
+  style='color:red'> </span>These steps ensure that participants’ personal
+  information will not be associated with the collected data.<i><o:p></o:p></i></span></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+  style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span style='font-size:16.0pt'>All data, including a USB
+  drive containing completed measures and <span class=SpellE>logfiles</span>,
+  will remain in a locked filing cabinet for a period of five years. This
+  cabinet is located in the Disciplined Reading and Learning Research Lab (Room
+  3240 <st1:PlaceName w:st="on">Benjamin</st1:PlaceName> <st1:PlaceName w:st="on">Building</st1:PlaceName>,
+  Department of Human Development, <st1:PlaceType w:st="on">University</st1:PlaceType>
+  of <st1:PlaceName w:st="on">Maryland</st1:PlaceName>, <st1:place w:st="on"><st1:City
+   w:st="on">College Park</st1:City>, <st1:State w:st="on">MD</st1:State> <st1:PostalCode
+   w:st="on">20742</st1:PostalCode></st1:place>). After this time, the data
+  will be either destroyed or boxed and moved to another secure storage
+  facility. If destruction is deemed appropriate, the paper documents will be
+  shredded and placed in a storage container, and the USB drive will be erased.<o:p></o:p></span></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+  style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+  style='font-size:16.0pt'>Access to these data will be limited to: the student
+  investigators (doctoral students in the Disciplined Reading and Learning
+  Research Lab), and the primary investigator (a tenured full professor in the
+  Department of Human Development). These graduate students are instructed as
+  to the ethical nature of data collections and the importance of maintaining
+  the confidentiality of study participants. <o:p></o:p></span></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+  style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+  style='font-size:16.0pt;mso-bidi-font-style:italic'>If we write a report or
+  article about this research project, your identity will be protected to the
+  maximum extent possible.<span style='mso-spacerun:yes'>  </span>Your
+  information may be shared with representatives of the <st1:PlaceType w:st="on">University</st1:PlaceType>
+  of <st1:PlaceName w:st="on">Maryland</st1:PlaceName>, <st1:City w:st="on"><st1:place
+   w:st="on">College Park</st1:place></st1:City> or governmental authorities if
+  you or someone else is in danger or if we are required to do so by law.</span><span
+  style='font-size:16.0pt'><o:p></o:p></span></p>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><i><span
+  style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></i></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 6.0pt .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 585.0pt'><span
+  style='font-size:16.0pt;line-height:108%;mso-bidi-font-style:italic'>In
+  accordance with legal requirements and/or professional standards, we will
+  disclose to the appropriate individuals and/or authorities information that
+  comes to our attention concerning child abuse or neglect or potential harm to
+  you or others.<span style='mso-spacerun:yes'>   </span></span><span
+  style='font-size:16.0pt;line-height:108%'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-left:312.0pt;line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 330.0pt 4.75in 5.0in 5.25in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 549.0pt 7.75in 8.0in 584.65pt'><span
+style='font-size:16.0pt;line-height:108%'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=1247
+ style='width:935.6pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=151 valign=top style='width:113.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 9.0pt .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'>What are the risks of this research?<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25in;line-height:108%;tab-stops:9.0pt .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><span
+  style='font-size:16.0pt;line-height:108%'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=1096 valign=top style='width:822.2pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+  style='font-size:16.0pt;mso-bidi-font-style:italic'>There may be some risks
+  from participating in this research study. Specifically, c</span><span
+  style='font-size:16.0pt'>ompletion of the measures requires cognitive effort for
+  a sustained period of time and may generate frustration in some students.<span
+  style='mso-bidi-font-style:italic'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=151 valign=top style='width:113.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 9.0pt .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'>What are the benefits of this research? </span></b><span
+  style='font-size:16.0pt;line-height:108%'><o:p></o:p></span></p>
+  </td>
+  <td width=1096 valign=top style='width:822.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+  style='font-size:16.0pt;mso-bidi-font-style:italic'>This research is not
+  designed to help you personally, but the results may help the investigator
+  learn more about </span><span style='font-size:16.0pt'>how context and type
+  of experience are related to epistemic orientations<span style='mso-bidi-font-style:
+  italic'>. We hope that, in the future, other people might benefit from this
+  study through improved understanding of students’ perception of the relation
+  between knowledge, interest, and strategies.<b style='mso-bidi-font-weight:
+  normal'><o:p></o:p></b></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td width=151 valign=top style='width:113.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 9.0pt .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'>Do I have to be in this research?<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 9.0pt .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'>May I stop participating at any time?<span
+  style='mso-spacerun:yes'>  </span><o:p></o:p></span></b></p>
+  </td>
+  <td width=1096 valign=top style='width:822.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 6.0pt .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 585.0pt'><span
+  style='font-size:16.0pt;line-height:108%;mso-bidi-font-style:italic'>Your
+  participation in this research is completely voluntary.<span
+  style='mso-spacerun:yes'>  </span>You may choose not to take part at
+  all.<span style='mso-spacerun:yes'>  </span>If you decide to participate in
+  this research, you may stop participating at any time.<span
+  style='mso-spacerun:yes'>  </span>If you decide not to participate in this
+  study or if you stop participating at any time, you will not be penalized or
+  lose any benefits to which you otherwise qualify.</span><span
+  style='font-size:16.0pt;line-height:108%'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-left:312.0pt;line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 330.0pt 4.75in 5.0in 5.25in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 549.0pt 7.75in 8.0in 584.65pt'><span
+style='font-size:16.0pt;line-height:108%'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=1247
+ style='width:935.6pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=151 valign=top style='width:113.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 9.0pt .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'>What if I have questions?<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 9.0pt .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 9.0pt .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 9.0pt .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=1096 valign=top style='width:822.2pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><span
+  style='font-size:16.0pt;line-height:108%;mso-bidi-font-style:italic'>This research
+  is being conducted by Dr. Patricia Alexander and the Human Development
+  department at the <st1:PlaceType w:st="on">University</st1:PlaceType> of <st1:PlaceName
+  w:st="on">Maryland</st1:PlaceName>, <st1:City w:st="on"><st1:place w:st="on">College
+    Park</st1:place></st1:City>.<span style='mso-spacerun:yes'>  </span>If you
+  have any questions about the research study itself, please contact Dr.
+  Alexander at: </span><span style='font-size:16.0pt;line-height:108%'>Disciplined
+  Reading and Learning Research Lab, Room 3240 Benjamin Building, Department of
+  Human Development, University of Maryland, College Park, MD 20742), by
+  telephone at (301) 405-6956, or by email at palexand@umd.edu. If you have
+  questions about your rights as a research subject or wish to report a
+  research-related injury, please contact: <b style='mso-bidi-font-weight:normal'>Institutional
+  Review Board Office, <st1:PlaceType w:st="on">University</st1:PlaceType> of <st1:PlaceName
+  w:st="on">Maryland</st1:PlaceName>, <st1:place w:st="on"><st1:City w:st="on">College
+    Park</st1:City>, <st1:State w:st="on">Maryland</st1:State>, <st1:PostalCode
+   w:st="on">20742</st1:PostalCode></st1:place>;<span
+  style='mso-spacerun:yes'>  </span>(e-mail) <a href="mailto:irb@deans.umd.edu">irb@deans.umd.edu</a>;<span
+  style='mso-spacerun:yes'>  </span>(telephone) 301-405-0678 <o:p></o:p></b></span></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 6.0pt .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 585.0pt'><span
+  style='font-size:16.0pt;line-height:108%'>This research has been reviewed
+  according to the <st1:place w:st="on"><st1:PlaceType w:st="on">University</st1:PlaceType>
+   of <st1:PlaceName w:st="on">Maryland</st1:PlaceName></st1:place>, College
+  Park IRB procedures for research involving human subjects.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td width=151 valign=top style='width:113.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'>Statement of Age of Subject and Consent<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
+  108%;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=1096 valign=top style='width:822.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><i><span
+  style='font-size:16.0pt;line-height:108%'>Please type your name below to provide
+  your consent. Your consent indicates that:<o:p></o:p></span></i></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><i><span
+  style='font-size:16.0pt;line-height:108%'><span style='mso-spacerun:yes'>  
+  </span>you are at least 18 years of age; <o:p></o:p></span></i></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><i><span
+  style='font-size:16.0pt;line-height:108%'><span style='mso-spacerun:yes'>  
+  </span>the research has been explained to you;<o:p></o:p></span></i></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><i><span
+  style='font-size:16.0pt;line-height:108%'><span style='mso-spacerun:yes'>  
+  </span>your questions have been fully answered; and <o:p></o:p></span></i></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 6.0pt .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 585.0pt'><i><span
+  style='font-size:16.0pt;line-height:108%'><span style='mso-spacerun:yes'> 
+  </span>you freely and voluntarily choose to participate in this research<span
+  style='mso-spacerun:yes'>  </span><o:p></o:p></span></i></p>
+  <p class=MsoNormal style='line-height:108%;tab-stops:0in 6.0pt .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in 585.0pt'><i><span
+  style='font-size:16.0pt;line-height:108%'><span
+  style='mso-spacerun:yes'> </span>project.</span></i><span style='font-size:
+  16.0pt;line-height:108%'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='line-height:108%;tab-stops:0in .25in .5in .75in 1.0in 1.25in 1.5in 1.75in 2.0in 2.25in 2.5in 2.75in 3.0in 3.25in 3.5in 3.75in 4.0in 4.25in 4.5in 4.75in 5.0in 5.25in 5.5in 5.75in 6.0in 6.25in 6.5in 6.75in 7.0in 7.25in 7.5in'><span
+style='font-size:16.0pt;line-height:108%'><o:p>&nbsp;</o:p></span></p>
+
+<form action="./setconsent.php" method=POST>
+
+<p classMsoNormal align=left><h8>Name: <input type="text" name="name"> <INPUT TYPE="submit" ACTION="../setconsent.php" VALUE="I consent" METHOD="POST"></h8></p>
+
+</form>
+
+</div>
+
+</body>
+
+</html>

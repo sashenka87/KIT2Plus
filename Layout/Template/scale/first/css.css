@@ -1,0 +1,148 @@
+body{
+font: 76% Verdana,Tahoma,Arial,sans-serif;
+}
+
+#wrap
+{
+margin: 2px auto;
+background-color: #fff;
+color: #333;
+border: 1px solid gray;
+line-height: 130%;
+}
+
+#header
+{
+padding: .5em;
+background-color: #ddd;
+border-bottom: 1px solid gray;
+}
+
+#header h1
+{
+padding: 0;
+margin: 0;
+}
+
+#menu {
+clear: left;
+float: left;
+padding: 0;
+}
+
+#menu ul {	
+list-style: none;
+width: 190px;
+margin: 0 0 20px 5px;
+padding: 0;
+display: inline;
+}	
+
+#menu li {
+background: #eaeaea;
+margin-bottom: 4px;
+}
+
+#menu li a {
+font-weight:bold;
+padding:15px;
+color:#000000;
+text-decoration: none;
+display: block;
+display: inline;
+}	
+
+.notactive {
+font-weight:bold;
+padding:15px;
+color:#fff;
+text-decoration: none;
+display: block;
+display: inline;
+}	
+
+.active {
+color:#00009C;
+font-weight:bold;
+text-decoration: none;
+display: inline;
+}
+
+
+
+#menu li a:hover {
+background: #fff;
+}
+
+
+#content
+{
+border-left: 1px solid gray;
+padding: 1em;
+}
+
+scale{
+text-align:center;
+float:left;
+padding: -5px;
+margin: -5px;
+}
+
+.current{
+height:500px;
+
+}
+
+.grey{
+color:#dcdcdc;
+background-color:#efefef;
+}
+
+.scale:hover{
+background-color:#aaa;
+float:left;
+}
+
+#footer{
+clear: both;
+margin: 0;
+padding: .5em;
+color: #333;
+background-color: #ddd;
+border-top: 1px solid gray;
+}
+
+#footer h1
+{
+padding: 0;
+margin: 0;
+}
+
+h1 {
+font-size: 1.5em; 
+margin: 0 0 10px 0;
+}
+
+#content h2
+{
+font-size: 1.1em;
+margin: 1em 0 0 0;
+}
+
+
+
+.error{
+padding:10px;
+background-color:#adef00;
+}
+
+.indent{
+text-indent: 25px;
+text-align:justify;
+}
+
+td {
+line-height:1.7em!important;
+text-align: justify;
+}
+

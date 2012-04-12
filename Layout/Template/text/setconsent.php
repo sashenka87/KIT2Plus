@@ -1,0 +1,56 @@
+<?php
+$con = mysql_connect("localhost","root","");
+if (!$con)
+  {
+  die('Could not connect: ' . mysql_error());
+  }
+
+// Create database
+if (mysql_query("CREATE DATABASE test",$con))
+  {
+  echo "Database created\n";
+  }
+else
+  {
+  echo "Error creating database: " . mysql_error();
+  }
+
+// Create table
+mysql_select_db("test", $con);
+$sql = "CREATE TABLE name
+(
+personID int NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY(personID),
+  theName varchar(50)
+  )";
+
+// Execute query
+if(mysql_query($sql,$con))
+{
+echo "success\n";
+}
+else
+{
+echo "didn't make table\n";
+}
+
+mysql_query("INSERT INTO name (theName) VALUES ('" . $_POST['name'] . "')");
+
+$result = mysql_query("SELECT * FROM name WHERE theName='" . $_POST['name'] . "'");
+
+$number = 0;
+
+while($row = mysql_fetch_array($result))
+  {
+  echo $row['personID'] . " " . $row['theName'];
+  echo "<br />";
+  $number = $row['personID'];
+  }
+
+mysql_close($con);
+
+$URL="../demographics/index.php?a=" . $number;
+
+header ("Location: $URL"); 
+
+?>
